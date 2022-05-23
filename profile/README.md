@@ -6,4 +6,4 @@ XMTP Labs is the primary contributor behind [**XMTP**](https://github.com/xmtp):
 
 💼 **We're hiring**! Check out our [open opportunities](https://careers.xmtp.com).
 
-🐦 Follow [@xmtp_](https://twitter.com/xmtp) on Twitter
+🐦 Follow [@xmtp_](https://twitter.com/xmtp_) on Twitter
