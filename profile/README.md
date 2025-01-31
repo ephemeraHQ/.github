@@ -1,6 +1,6 @@
 # Ephemera
 
-Ephemera is the primary contributor behind [**XMTP**](https://github.com/xmtp): The largest and most secure decentralized messaging network.
+Ephemera stewards the development and adoption of [**XMTP**](https://github.com/xmtp): The largest and most secure decentralized messaging network.
 
 🌎 On the web: [https://ephemerahq.com](https://ephemerahq.com)
 
