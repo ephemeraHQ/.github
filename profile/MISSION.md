@@ -19,7 +19,7 @@ More humans using XMTP.
 
 1. Increase messaging volume on XMTP mainnet  
 2. Increase DAUs on Convos  
-3. Increase agent messaging volume on XMTP mainnet  
+3. Increase miniapp mainnet message volume 
 
 👉 [View Our Goals Dashboard](https://p.datadoghq.com/sb/a5c739de-7e2c-11ec-bc0b-da7ad0900002-5609b3aa17947397d5f54d564f80000c?fromUser=false&refresh_mode=sliding&storage=hot&tv_mode=true&from_ts=1752857417671&to_ts=1758214217671&live=true)  
 
