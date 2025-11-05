@@ -1,6 +1,6 @@
 # Ephemera
 
-Our mission is to increase the world’s freedom to communicate.
+Our mission is to secure the world’s freedom to communicate.
 
 We build infrastructure for the [**XMTP**](https://github.com/xmtp) ecosystem.
 
