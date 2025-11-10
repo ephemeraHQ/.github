@@ -1,4 +1,4 @@
-# Ephemera
+# XMTP Labs
 
 Our mission is to secure the world’s freedom to communicate.
 
@@ -10,9 +10,9 @@ We develop [**Convos**](https://github.com/ephemeraHQ/convos-app), a next-gen me
 
 💼 **We're hiring**! Check out our [**open opportunities**](https://paragraph.xyz/@ephemera/careers).
 
-🌎 On the web: [**https://ephemerahq.com**](https://ephemerahq.com)
+🌎 On the web: [**https://xmtplabs.com**](https://xmtplabs.com)
 
-𝕏 Follow [**@EphemeraHQ**](https://x.com/EphemeraHQ)
+𝕏 Follow [**@XMTP_Labs**](https://x.com/XMTP_Labs)
 
 ---
 
