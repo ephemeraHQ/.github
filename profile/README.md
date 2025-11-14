@@ -4,7 +4,7 @@ Our mission is to secure the world’s freedom to communicate.
 
 We build infrastructure for the [**XMTP**](https://github.com/xmtp) ecosystem.
 
-We develop [**Convos**](https://github.com/ephemeraHQ/convos-app), a next-gen messaging app built for pop-up private convos.
+We develop [**Convos**](https://github.com/xmtplabs/convos-app), a next-gen messaging app built for pop-up private convos.
 
 ---
 
